@@ -18,6 +18,6 @@ This script take a link of any URL and generate a QR code corresponding to it.
 
 ### Screenshot/GIF showing the sample use of the script
 
-![Page 1](https://github.com/VaibhavGhorpade1999/InfoGraphics-on-India-Tourism/blob/main/Tourism_page-0001.jpg)
-![Page 2](https://github.com/VaibhavGhorpade1999/InfoGraphics-on-India-Tourism/blob/main/Tourism_page-0002.jpg)
-![Page 3](https://github.com/VaibhavGhorpade1999/InfoGraphics-on-India-Tourism/blob/main/Tourism_page-0003.jpg)
+![Tourism_page-0001](https://github.com/VaibhavGhorpade1999/InfoGraphics-on-India-Tourism/blob/main/Tourism_page-0001.jpg)
+![Tourism_page-0002](https://github.com/VaibhavGhorpade1999/InfoGraphics-on-India-Tourism/blob/main/Tourism_page-0002.jpg)
+![Tourism_page-0003](https://github.com/VaibhavGhorpade1999/InfoGraphics-on-India-Tourism/blob/main/Tourism_page-0003.jpg)
