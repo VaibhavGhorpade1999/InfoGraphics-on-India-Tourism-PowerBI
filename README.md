@@ -6,6 +6,9 @@
 - The Taj Mahal was the most visited monument in India among International and National visitors alike, with 0.64 million international and 4.42 million domestic visitors in 2019-20
 - Foreign Exchange Earnings (FEEs) from tourism was highest in 2019 with 2,11,661 crores (30,058 million USD)
 
+### Tools used
+- MySQL
+- PowerBI
 
 ### Screenshot showing Pages of PowerBI Dashboard
 #### Page 1
